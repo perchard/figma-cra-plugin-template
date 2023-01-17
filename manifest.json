@@ -1,0 +1,8 @@
+{
+  "name": "Figma x CRA Plugin Template",
+  "id": "",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "permissions": [],
+  "main": "dist/code.js"
+}
